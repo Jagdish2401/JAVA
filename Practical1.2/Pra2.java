@@ -1,4 +1,4 @@
-public class Main {
+public class Pra2{
 
     public static void main(String args[])
     {

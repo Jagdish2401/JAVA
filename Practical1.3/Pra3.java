@@ -1,5 +1,5 @@
 
-public class Main {
+public class Pra3{
     public static void main(String[] args) {
         double x=1234.5678;
         long y=(long)x;
