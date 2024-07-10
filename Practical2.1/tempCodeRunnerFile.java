@@ -1,0 +1,1 @@
+ public static int array_count(int[] array1,int length) {
