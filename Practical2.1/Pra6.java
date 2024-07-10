@@ -1,3 +1,4 @@
-public class Pra6 {
+public class Pra6
+ {
     
 }
