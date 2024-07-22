@@ -15,7 +15,7 @@ class complex
         return temp;
     }
     void printcomplexnumber(){
-        System.out.println(real+"i"+img);
+        System.out.println(real+"+"+img+"i");
     }
     complex subtract(complex c1,complex c2)
     {
