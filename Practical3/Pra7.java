@@ -14,6 +14,6 @@ public class Pra7
     {
         a=20;
         System.out.println(a);
-
+//jd
     } 
 }
