@@ -1,7 +1,7 @@
 //call by refreance
 class obj{
     int value;
-
+    
 }
 public class Pra7_2 {
     public static void main(String[] args)
@@ -14,5 +14,6 @@ public class Pra7_2 {
     public static void callrefre(obj o)
     {
         o.value=20;
+        
     }
 }
