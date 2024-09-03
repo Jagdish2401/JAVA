@@ -20,7 +20,6 @@ class Postgraduate extends Degree{
 public class Pra5 {
     public static void main(String[] args)
      {
-        
         Undergraduate o2=new Undergraduate();
         o2.degree();
         o2.getdegree();

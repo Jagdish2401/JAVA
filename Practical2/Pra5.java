@@ -9,7 +9,7 @@ public class Pra5 {
             for(int j=arr[i].length()-1;j>=0;j--)
             {
                 result=result+arr[i].charAt(j);
-        
+
             }
             result=result+" ";
 

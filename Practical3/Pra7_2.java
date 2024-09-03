@@ -14,6 +14,5 @@ public class Pra7_2 {
     public static void callrefre(obj o)
     {
         o.value=20;
-        
     }
 }
