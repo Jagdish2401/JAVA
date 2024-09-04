@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,9 +43,7 @@ public class pra1
                 e.printStackTrace();
             }
         }
-
         scan.close();
     }
 }
-
 
