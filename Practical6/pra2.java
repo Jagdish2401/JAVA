@@ -45,3 +45,4 @@ public class pra2{
         scan.close();
     }
 }
+
